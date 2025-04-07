@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio Programmation 2 – Docs</title>
-    <link>//localhost:1313/docs/</link>
+    <link>//localhost:50813/docs/</link>
     <description>Recent content in Docs on Portfolio Programmation 2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 29 Mar 2025 00:42:35 +0100</lastBuildDate>
     
-	  <atom:link href="//localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="//localhost:50813/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title></title>
-      <link>//localhost:1313/docs/s%C3%A9ance_1/4_exercsies/1.compression/</link>
+      <link>//localhost:50813/docs/s%C3%A9ance_1/4_exercsies/1.compression/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/docs/s%C3%A9ance_1/4_exercsies/1.compression/</guid>
+      <guid>//localhost:50813/docs/s%C3%A9ance_1/4_exercsies/1.compression/</guid>
       <description>
         
         
@@ -92,10 +92,10 @@
     
     <item>
       <title></title>
-      <link>//localhost:1313/docs/s%C3%A9ance_1/4_exercsies/2.calculatrice/</link>
+      <link>//localhost:50813/docs/s%C3%A9ance_1/4_exercsies/2.calculatrice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/docs/s%C3%A9ance_1/4_exercsies/2.calculatrice/</guid>
+      <guid>//localhost:50813/docs/s%C3%A9ance_1/4_exercsies/2.calculatrice/</guid>
       <description>
         
         
@@ -105,10 +105,10 @@
     
     <item>
       <title></title>
-      <link>//localhost:1313/docs/s%C3%A9ance_1/4_exercsies/3.bataille/</link>
+      <link>//localhost:50813/docs/s%C3%A9ance_1/4_exercsies/3.bataille/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/docs/s%C3%A9ance_1/4_exercsies/3.bataille/</guid>
+      <guid>//localhost:50813/docs/s%C3%A9ance_1/4_exercsies/3.bataille/</guid>
       <description>
         
         
@@ -118,10 +118,10 @@
     
     <item>
       <title></title>
-      <link>//localhost:1313/docs/s%C3%A9ance_1/list/list/</link>
+      <link>//localhost:50813/docs/s%C3%A9ance_1/list/list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/docs/s%C3%A9ance_1/list/list/</guid>
+      <guid>//localhost:50813/docs/s%C3%A9ance_1/list/list/</guid>
       <description>
         
         
@@ -386,10 +386,10 @@
     
     <item>
       <title></title>
-      <link>//localhost:1313/docs/s%C3%A9ance_1/list/list_header/</link>
+      <link>//localhost:50813/docs/s%C3%A9ance_1/list/list_header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/docs/s%C3%A9ance_1/list/list_header/</guid>
+      <guid>//localhost:50813/docs/s%C3%A9ance_1/list/list_header/</guid>
       <description>
         
         
@@ -432,10 +432,10 @@
     
     <item>
       <title></title>
-      <link>//localhost:1313/docs/s%C3%A9ance_1/queue/queue_header/</link>
+      <link>//localhost:50813/docs/s%C3%A9ance_1/queue/queue_header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/docs/s%C3%A9ance_1/queue/queue_header/</guid>
+      <guid>//localhost:50813/docs/s%C3%A9ance_1/queue/queue_header/</guid>
       <description>
         
         
@@ -491,10 +491,10 @@
     
     <item>
       <title></title>
-      <link>//localhost:1313/docs/s%C3%A9ance_1/queue/queue_list/</link>
+      <link>//localhost:50813/docs/s%C3%A9ance_1/queue/queue_list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/docs/s%C3%A9ance_1/queue/queue_list/</guid>
+      <guid>//localhost:50813/docs/s%C3%A9ance_1/queue/queue_list/</guid>
       <description>
         
         
@@ -733,10 +733,10 @@
     
     <item>
       <title></title>
-      <link>//localhost:1313/docs/s%C3%A9ance_1/queue/queue_tableau/</link>
+      <link>//localhost:50813/docs/s%C3%A9ance_1/queue/queue_tableau/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/docs/s%C3%A9ance_1/queue/queue_tableau/</guid>
+      <guid>//localhost:50813/docs/s%C3%A9ance_1/queue/queue_tableau/</guid>
       <description>
         
         
@@ -910,10 +910,10 @@
     
     <item>
       <title></title>
-      <link>//localhost:1313/docs/s%C3%A9ance_1/stack/stack_header/</link>
+      <link>//localhost:50813/docs/s%C3%A9ance_1/stack/stack_header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/docs/s%C3%A9ance_1/stack/stack_header/</guid>
+      <guid>//localhost:50813/docs/s%C3%A9ance_1/stack/stack_header/</guid>
       <description>
         
         
@@ -957,10 +957,10 @@
     
     <item>
       <title></title>
-      <link>//localhost:1313/docs/s%C3%A9ance_1/stack/stack_list/</link>
+      <link>//localhost:50813/docs/s%C3%A9ance_1/stack/stack_list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/docs/s%C3%A9ance_1/stack/stack_list/</guid>
+      <guid>//localhost:50813/docs/s%C3%A9ance_1/stack/stack_list/</guid>
       <description>
         
         
@@ -1150,10 +1150,10 @@
     
     <item>
       <title>Questions</title>
-      <link>//localhost:1313/docs/s%C3%A9ance_1/questions/</link>
+      <link>//localhost:50813/docs/s%C3%A9ance_1/questions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/docs/s%C3%A9ance_1/questions/</guid>
+      <guid>//localhost:50813/docs/s%C3%A9ance_1/questions/</guid>
       <description>
         
         

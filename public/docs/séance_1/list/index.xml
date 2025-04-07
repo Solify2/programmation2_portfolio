@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio Programmation 2 – </title>
-    <link>//localhost:1313/docs/s%C3%A9ance_1/list/</link>
+    <link>//localhost:50813/docs/s%C3%A9ance_1/list/</link>
     <description>Recent content on Portfolio Programmation 2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="//localhost:1313/docs/s%C3%A9ance_1/list/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="//localhost:50813/docs/s%C3%A9ance_1/list/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title></title>
-      <link>//localhost:1313/docs/s%C3%A9ance_1/list/list/</link>
+      <link>//localhost:50813/docs/s%C3%A9ance_1/list/list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/docs/s%C3%A9ance_1/list/list/</guid>
+      <guid>//localhost:50813/docs/s%C3%A9ance_1/list/list/</guid>
       <description>
         
         
@@ -284,10 +284,10 @@
     
     <item>
       <title></title>
-      <link>//localhost:1313/docs/s%C3%A9ance_1/list/list_header/</link>
+      <link>//localhost:50813/docs/s%C3%A9ance_1/list/list_header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/docs/s%C3%A9ance_1/list/list_header/</guid>
+      <guid>//localhost:50813/docs/s%C3%A9ance_1/list/list_header/</guid>
       <description>
         
         

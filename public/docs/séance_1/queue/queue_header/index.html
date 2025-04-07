@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<html lang="en"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=50813&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="robots" content="noindex, nofollow" />
@@ -11,7 +11,7 @@
 <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
 <link fetchpriority="low" href="/site.webmanifest" rel="manifest" />
 <title>Portfolio Programmation 2</title>
-  <meta name="description" content="Fichier d’en-têteDéfinition des fonctions de la file d’attente #ifndef QUEUE_H #define QUEUE_H #include &lt;stdlib.h&gt; #include &lt;stdio.h&gt; //Invariant de structure: pour toute Queue initialisée, size(q)&gt;=0 struct Queue; //déclaration du nom de ma structure typedef struct Queue* Queue_t; //déclaration d&#39;un alias qui désigne le type &#34;pointeur vers struct Queue&#34; //PRE: / //POST: initialise une Queue vide et renvoie un pointeur vers celle-ci Queue_t new_queue(); //PRE: q est initialisé //POST: renvoie le nombre d&#39;éléments présents dans q. q n&#39;est pas modifiée. int size(Queue_t queue); //PRE: q est initialisé //POST: size(q&#39;) = size(q)&#43;1 et le dernier élément de q est i. Le reste n&#39;a pas été modifié void enqueue(Queue_t queue, int i); //PRE: q est initialisé, size(q)&gt;0 //POST: renvoie le premier élément de q (élément le plus anciennement mis dans q) et l&#39;enlève de q. // size(q&#39;)=size(q)-1 // Le reste n&#39;est pas modifié. int dequeue(Queue_t queue); //PRE: q est initialisée //POST: toute la mémoire allouée pour q est libérée void destroy_queue(Queue_t queue); #endif " /><link rel="canonical" href="//localhost:1313/docs/s%C3%A9ance_1/queue/queue_header/" itemprop="url" />
+  <meta name="description" content="Fichier d’en-têteDéfinition des fonctions de la file d’attente #ifndef QUEUE_H #define QUEUE_H #include &lt;stdlib.h&gt; #include &lt;stdio.h&gt; //Invariant de structure: pour toute Queue initialisée, size(q)&gt;=0 struct Queue; //déclaration du nom de ma structure typedef struct Queue* Queue_t; //déclaration d&#39;un alias qui désigne le type &#34;pointeur vers struct Queue&#34; //PRE: / //POST: initialise une Queue vide et renvoie un pointeur vers celle-ci Queue_t new_queue(); //PRE: q est initialisé //POST: renvoie le nombre d&#39;éléments présents dans q. q n&#39;est pas modifiée. int size(Queue_t queue); //PRE: q est initialisé //POST: size(q&#39;) = size(q)&#43;1 et le dernier élément de q est i. Le reste n&#39;a pas été modifié void enqueue(Queue_t queue, int i); //PRE: q est initialisé, size(q)&gt;0 //POST: renvoie le premier élément de q (élément le plus anciennement mis dans q) et l&#39;enlève de q. // size(q&#39;)=size(q)-1 // Le reste n&#39;est pas modifié. int dequeue(Queue_t queue); //PRE: q est initialisée //POST: toute la mémoire allouée pour q est libérée void destroy_queue(Queue_t queue); #endif " /><link rel="canonical" href="//localhost:50813/docs/s%C3%A9ance_1/queue/queue_header/" itemprop="url" />
 
 <meta property="og:title" content="" />
 <meta property="og:description" content="Fichier d&rsquo;en-têteDéfinition des fonctions de la file d&rsquo;attente
@@ -58,7 +58,7 @@ void destroy_queue(Queue_t queue);
 
 " />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="//localhost:1313/docs/s%C3%A9ance_1/queue/queue_header/" /><meta property="article:section" content="docs" />
+<meta property="og:url" content="//localhost:50813/docs/s%C3%A9ance_1/queue/queue_header/" /><meta property="article:section" content="docs" />
 
 
 

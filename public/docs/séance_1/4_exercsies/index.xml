@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio Programmation 2 – </title>
-    <link>//localhost:1313/docs/s%C3%A9ance_1/4_exercsies/</link>
+    <link>//localhost:50813/docs/s%C3%A9ance_1/4_exercsies/</link>
     <description>Recent content on Portfolio Programmation 2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="//localhost:1313/docs/s%C3%A9ance_1/4_exercsies/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="//localhost:50813/docs/s%C3%A9ance_1/4_exercsies/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title></title>
-      <link>//localhost:1313/docs/s%C3%A9ance_1/4_exercsies/1.compression/</link>
+      <link>//localhost:50813/docs/s%C3%A9ance_1/4_exercsies/1.compression/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/docs/s%C3%A9ance_1/4_exercsies/1.compression/</guid>
+      <guid>//localhost:50813/docs/s%C3%A9ance_1/4_exercsies/1.compression/</guid>
       <description>
         
         
@@ -91,10 +91,10 @@
     
     <item>
       <title></title>
-      <link>//localhost:1313/docs/s%C3%A9ance_1/4_exercsies/2.calculatrice/</link>
+      <link>//localhost:50813/docs/s%C3%A9ance_1/4_exercsies/2.calculatrice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/docs/s%C3%A9ance_1/4_exercsies/2.calculatrice/</guid>
+      <guid>//localhost:50813/docs/s%C3%A9ance_1/4_exercsies/2.calculatrice/</guid>
       <description>
         
         
@@ -104,10 +104,10 @@
     
     <item>
       <title></title>
-      <link>//localhost:1313/docs/s%C3%A9ance_1/4_exercsies/3.bataille/</link>
+      <link>//localhost:50813/docs/s%C3%A9ance_1/4_exercsies/3.bataille/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/docs/s%C3%A9ance_1/4_exercsies/3.bataille/</guid>
+      <guid>//localhost:50813/docs/s%C3%A9ance_1/4_exercsies/3.bataille/</guid>
       <description>
         
         
