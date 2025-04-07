@@ -1,1 +1,8 @@
 baseURL = "https://solify2.github.io/programmation2_portfolio/"
+languageCode = "en-us"
+title = "My Hextra Site"
+theme = "hextra"
+
+[params]
+  description = "My site powered by Hextra"
+
