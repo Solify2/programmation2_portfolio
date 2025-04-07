@@ -2,47 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/s%C3%A9ance_1/4_exercsies/1.compression/</loc>
+    <loc>/docs/s%C3%A9ance_1/4_exercsies/1.compression/</loc>
   </url><url>
-    <loc>/s%C3%A9ance_1/4_exercsies/2.calculatrice/</loc>
+    <loc>/docs/s%C3%A9ance_1/4_exercsies/2.calculatrice/</loc>
   </url><url>
-    <loc>/s%C3%A9ance_1/4_exercsies/3.bataille/</loc>
+    <loc>/docs/s%C3%A9ance_1/4_exercsies/3.bataille/</loc>
   </url><url>
-    <loc>/s%C3%A9ance_1/4_exercsies/</loc>
+    <loc>/docs/s%C3%A9ance_1/4_exercsies/</loc>
   </url><url>
-    <loc>/s%C3%A9ance_1/list/</loc>
+    <loc>/docs/s%C3%A9ance_1/list/</loc>
   </url><url>
-    <loc>/s%C3%A9ance_1/list/list/</loc>
+    <loc>/docs/s%C3%A9ance_1/list/list/</loc>
   </url><url>
-    <loc>/s%C3%A9ance_1/list/list_header/</loc>
+    <loc>/docs/s%C3%A9ance_1/list/list_header/</loc>
   </url><url>
-    <loc>/s%C3%A9ance_1/queue/</loc>
+    <loc>/docs/s%C3%A9ance_1/queue/</loc>
   </url><url>
-    <loc>/s%C3%A9ance_1/queue/queue_header/</loc>
+    <loc>/docs/s%C3%A9ance_1/queue/queue_header/</loc>
   </url><url>
-    <loc>/s%C3%A9ance_1/queue/queue_list/</loc>
+    <loc>/docs/s%C3%A9ance_1/queue/queue_list/</loc>
   </url><url>
-    <loc>/s%C3%A9ance_1/queue/queue_tableau/</loc>
+    <loc>/docs/s%C3%A9ance_1/queue/queue_tableau/</loc>
   </url><url>
-    <loc>/s%C3%A9ance_1/stack/</loc>
+    <loc>/docs/s%C3%A9ance_1/stack/</loc>
   </url><url>
-    <loc>/s%C3%A9ance_1/stack/stack_header/</loc>
+    <loc>/docs/s%C3%A9ance_1/stack/stack_header/</loc>
   </url><url>
-    <loc>/s%C3%A9ance_1/stack/stack_list/</loc>
+    <loc>/docs/s%C3%A9ance_1/stack/stack_list/</loc>
   </url><url>
-    <loc>/s%C3%A9ance_2/pq/</loc>
+    <loc>/docs/s%C3%A9ance_2/pq/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
-    <loc>/s%C3%A9ance_1/questions/</loc>
+    <loc>/docs/</loc>
   </url><url>
-    <loc>/s%C3%A9ance_1/</loc>
+    <loc>/docs/s%C3%A9ance_1/questions/</loc>
   </url><url>
-    <loc>/s%C3%A9ance_2/</loc>
+    <loc>/docs/s%C3%A9ance_1/</loc>
   </url><url>
-    <loc>/s%C3%A9ance_3/</loc>
+    <loc>/docs/s%C3%A9ance_2/</loc>
   </url><url>
-    <loc>/s%C3%A9ance_4/</loc>
+    <loc>/docs/s%C3%A9ance_3/</loc>
+  </url><url>
+    <loc>/docs/s%C3%A9ance_4/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url>

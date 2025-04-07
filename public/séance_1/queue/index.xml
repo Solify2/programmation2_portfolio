@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio Programmation 2 – </title>
-    <link>/s%C3%A9ance_1/queue/</link>
+    <link>//localhost:65052/s%C3%A9ance_1/queue/</link>
     <description>Recent content on Portfolio Programmation 2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="/s%C3%A9ance_1/queue/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="//localhost:65052/s%C3%A9ance_1/queue/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title></title>
-      <link>/s%C3%A9ance_1/queue/queue_header/</link>
+      <link>//localhost:65052/s%C3%A9ance_1/queue/queue_header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/s%C3%A9ance_1/queue/queue_header/</guid>
+      <guid>//localhost:65052/s%C3%A9ance_1/queue/queue_header/</guid>
       <description>
         
         
@@ -75,10 +75,10 @@
     
     <item>
       <title></title>
-      <link>/s%C3%A9ance_1/queue/queue_list/</link>
+      <link>//localhost:65052/s%C3%A9ance_1/queue/queue_list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/s%C3%A9ance_1/queue/queue_list/</guid>
+      <guid>//localhost:65052/s%C3%A9ance_1/queue/queue_list/</guid>
       <description>
         
         
@@ -317,10 +317,10 @@
     
     <item>
       <title></title>
-      <link>/s%C3%A9ance_1/queue/queue_tableau/</link>
+      <link>//localhost:65052/s%C3%A9ance_1/queue/queue_tableau/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/s%C3%A9ance_1/queue/queue_tableau/</guid>
+      <guid>//localhost:65052/s%C3%A9ance_1/queue/queue_tableau/</guid>
       <description>
         
         

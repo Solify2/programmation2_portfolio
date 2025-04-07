@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio Programmation 2 – Séance_2</title>
-    <link>/s%C3%A9ance_2/</link>
+    <link>//localhost:65052/s%C3%A9ance_2/</link>
     <description>Recent content in Séance_2 on Portfolio Programmation 2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="/s%C3%A9ance_2/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="//localhost:65052/s%C3%A9ance_2/index.xml" rel="self" type="application/rss+xml" />
     
     
       
