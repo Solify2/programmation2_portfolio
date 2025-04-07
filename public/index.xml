@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio Programmation 2 – </title>
+    <link>//localhost:51168/</link>
+    <description>Recent content on Portfolio Programmation 2</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 29 Mar 2025 00:42:35 +0100</lastBuildDate>
+    
+	  <atom:link href="//localhost:51168/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+      
+    
+    
+  </channel>
+</rss>
